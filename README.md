@@ -20,7 +20,7 @@ To run the Spinning Wheel Web Application locally, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd spinning-wheel
+   cd spinWheel
    ```
 
 3. Open `index.html` in your web browser.
